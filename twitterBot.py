@@ -7,8 +7,8 @@ import sys
 import os
 
 twitter = None
-consumerKey = 'mSNoX3LjpUGtByBASDO8AA'
-consumerSecret = 'lKbo0lrchTKvSFVZTA6GyCZoHO9OVnj3VH6zm5ERg'
+consumerKey = ''
+consumerSecret = ''
 
 def auth():
 	authToken = None
